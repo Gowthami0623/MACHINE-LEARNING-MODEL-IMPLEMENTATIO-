@@ -35,3 +35,5 @@ Integration into email services for spam filtering.
 Deployment in messaging platforms to identify and reduce spam content.
 Enhancement of customer communication systems for prioritizing legitimate inquiries.
 # OUTPUT 
+![Image](https://github.com/user-attachments/assets/603d3fa6-e119-4fb0-b1ae-c4910b47e21c)
+
